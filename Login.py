@@ -20,8 +20,8 @@ FORM_DATA = {
     'client_id': 'c3cef7c66a1843f8b3a9e6a1e3160e20',
     'grant_type': 'password',
     'source': 'com.zhihu.web',
-    'username': '13729816315',
-    'password': '19949291994929',
+    'username': 'id',
+    'password': 'password',
     'lang': 'en',
     'ref_source': 'homepage'
 }
